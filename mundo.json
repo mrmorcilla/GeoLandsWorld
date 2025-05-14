@@ -1,17 +1,8 @@
 {
-  "tierras": {
-    "320,169": "andres",
-    "87,264": "andres",
-    "106,260": "andres",
-    "86,266": "andres",
-    "88,265": "andres",
-    "298,210": "andres",
-    "296,259": "andres",
-    "154,223": "andres",
-    "176,212": "andres",
-    "175,212": "andres",
-    "379,235": "andres",
-    "430,177": "andres",
-    "558,41": "andres"
-  }
+  "asia_norte": "",
+  "norteamerica": "",
+  "europa_sur": "",
+  "rusia_norte": "",
+  "oceania_sur": "",
+  "antartida": ""
 }
